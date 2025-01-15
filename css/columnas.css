@@ -1,0 +1,25 @@
+.col-box {
+    border: 1px solid #000;
+    padding: 10px;
+    margin: 10px 0;
+  }
+
+  .col-color-1 {
+    background-color: #9a4e55;
+  }
+
+  .col-color-2 {
+    background-color: #273c54;
+  }
+
+  .col-color-3 {
+    background-color: #52875e;
+  }
+
+  .col-color-4 {
+    background-color: #dbc98e;
+  }
+
+  .col-color-5 {
+    background-color: #5b9fab;
+  }
